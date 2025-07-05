@@ -1,0 +1,16 @@
+name: Express REST API
+description: A Node.js-based RESTful API using Express with MongoDB for data storage.
+category: Backend API
+techStack:
+  frontend: None
+  backend: Node.js/Express
+  database: MongoDB
+  language: JavaScript
+  tools: Webpack
+  testing: Jest, Supertest
+  deployment: AWS
+tags:
+  - express
+  - nodejs
+  - mongodb
+  - rest

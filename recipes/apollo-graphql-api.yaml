@@ -1,0 +1,16 @@
+name: Apollo GraphQL API
+description: A Node.js-based GraphQL API using Apollo Server with PostgreSQL for data storage.
+category: Backend API
+techStack:
+  frontend: None
+  backend: Apollo Server
+  database: PostgreSQL
+  language: TypeScript
+  tools: None
+  testing: Jest
+  deployment: Heroku
+tags:
+  - apollo
+  - graphql
+  - nodejs
+  - postgresql

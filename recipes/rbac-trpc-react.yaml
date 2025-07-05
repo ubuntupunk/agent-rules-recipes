@@ -1,0 +1,17 @@
+name: RBAC tRPC React App
+description: A TypeScript-based React application with tRPC for type-safe API communication, Tailwind CSS for styling, and RBAC for access control.
+category: Frontend Web Application
+techStack:
+  frontend: React
+  backend: tRPC
+  database: None
+  language: TypeScript
+  tools: Vite, Tailwind CSS
+  testing: Jest, React Testing Library
+  deployment: Vercel
+tags:
+  - react
+  - trpc
+  - typescript
+  - tailwind
+  - rbac
